@@ -1,0 +1,37 @@
+body {
+  font-family: serif;
+
+}
+
+.header{
+background-color: #eaebf0
+}
+
+.tableHome .tr .td {
+
+  margin: 15px auto;
+}
+
+
+.td1 {color: #616161;}
+.td3 {color: #5a7375;}
+.td4 {color: #0d6569ba;}
+
+
+.td5, .td2 {
+
+  padding: 8px;
+}
+
+.button1 {
+
+width: 100%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.homeLink {
+
+margin-right: 95%
+
+}
